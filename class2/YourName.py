@@ -1,7 +1,4 @@
 # YourName.py
-print("What is your name?\n")
-input()
-print("no,it is not")
-
-
+name = input("What is your name?\n")
+print("No it is not")
 
