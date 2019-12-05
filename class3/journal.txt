@@ -1,1 +1,0 @@
-We learned about the micro:bit's power to message.You can send anything you like, as long as it is not a voice messege!Your micro:bit can also communicate with other micro:bits to 
